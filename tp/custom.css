@@ -1,0 +1,17 @@
+<style>
+.travail {
+    background-size: 30px;
+    background-image: url('https://cdn.pixabay.com/photo/2018/01/04/16/53/building-3061124_960_720.png');
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+}
+
+.bilan {
+    background-size: 30px;
+    background-image: url('https://cdn.pixabay.com/photo/2016/10/18/19/40/anatomy-1751201_960_720.png');
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+}
+</style>
